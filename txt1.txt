@@ -1,0 +1,4 @@
+git config --global user.name "yn20375024"
+git config --global user.email yn20375024@ga.tera-house.ac.jp
+git config --global push.default current
+git config --global credential.helper wincred
